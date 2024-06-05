@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ee75c0c3bc9e804cbe1c379cf6711b8, type: 3}
+  m_Name: ManzanaVerdeAsada
+  m_EditorClassIdentifier: 
+  nombre: Manzana Verde Asada
+  descripcion: 'Una manzana '
+  valorElemento: 20
+  icono: {fileID: 21300000, guid: 19268d32a2e6d7943b8914904974845a, type: 3}
+  PrefabSoltar: {fileID: 4677171211722363253, guid: ec433f800a22c2a428cffe839ab38666, type: 3}
+  tipo: 0
+  resistencia: 0

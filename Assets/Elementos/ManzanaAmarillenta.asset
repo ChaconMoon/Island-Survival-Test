@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ee75c0c3bc9e804cbe1c379cf6711b8, type: 3}
+  m_Name: ManzanaAmarillenta
+  m_EditorClassIdentifier: 
+  nombre: Manzana amarillenta
+  descripcion: Una manzana de color amarillento muy nutritiva
+  valorElemento: 10
+  icono: {fileID: 21300000, guid: df4fc4510016b684d81e88825464a299, type: 3}
+  PrefabSoltar: {fileID: 1506980113864294094, guid: edf85bae026aaaa4b8e3b2ecf215c6d9, type: 3}
+  tipo: 0
+  resistencia: 0
